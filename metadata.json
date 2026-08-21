@@ -1,0 +1,6 @@
+{
+  "name": "Disantha Holistic Wellness",
+  "description": "A sacred sanctuary devoted to women's healing, empowerment, ThetaHealing®, Womb Care rituals, Reiki, and sacred circles founded by Dani.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
